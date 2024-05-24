@@ -1,0 +1,4 @@
+http:
+  logging:
+    enabled: true
+    level: error

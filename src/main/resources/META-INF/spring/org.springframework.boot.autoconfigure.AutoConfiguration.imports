@@ -1,0 +1,3 @@
+com.schoolt1.springhttploggerstarter.config.HttpLoggingAutoConfiguration
+com.schoolt1.springhttploggerstarter.config.HttpLoggingWebConfiguration
+
