@@ -33,4 +33,6 @@ Spring Boot Starter для логирования HTTP-запросов.
 ```2024-05-24T11:49:16.173+03:00 ERROR 551371 --- [nio-8080-exec-3] c.s.s.utils.LoggerUtils : Исходящий ответ: status={200}, headers=[Content-Type, Content-Length, Date, Keep-Alive, Connection], duration={3}ms ```
 ```4T11:49:16.171+03:00 ERROR 551371 --- [nio-8080-exec-3] c.s.s.utils.LoggerUtils : Входящий запрос: method=GET, uri=/api/getTestExample, headers=[host, connection, sec-ch-ua, sec-ch-ua-mobile, sec-ch-ua-platform, upgrade-insecure-requests, user-agent, accept, sec-fetch-site, sec-fetch-mode, sec-fetch-user, sec-fetch-dest, accept-encoding, accept-language]```
 
+**Тестовый проект с необходимыми зависимостями, демонстрирующий работу** https://github.com/AntonWorotyncev/StarterDemoTestLogger/
+
 
